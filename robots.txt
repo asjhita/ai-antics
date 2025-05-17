@@ -1,2 +1,4 @@
 User-agent: *
 Disallow:
+
+Sitemap: https://ai-antics.pages.dev/sitemap.xml
